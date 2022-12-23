@@ -1,0 +1,15 @@
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\bin\Debug\net7.0\Task1.exe
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\bin\Debug\net7.0\Task1.dll
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\obj\Debug\net7.0\Task1.dll
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Praсtiс\CS_practic\CS_seminar_3DZ\Task1\obj\Debug\net7.0\ref\Task1.dll
